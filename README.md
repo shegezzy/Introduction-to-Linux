@@ -167,7 +167,7 @@ Create and configure an AWS account, then launch an Ubuntu EC2 instance that wil
 ![Create Security Group](./images/4.create_security_groups.png)
 
 **Screenshot 5:** EC2 Instance
-![Name and Tags](./images/images/5.ec2_instance.png)
+![Name and Tags](./images/5.ec2_instance.png)
 
 ✅ **Task 2 Completed:** AWS account has been set up and an Ubuntu server (EC2 instance) is provisioned successfully.
 
