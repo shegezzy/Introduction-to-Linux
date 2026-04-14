@@ -879,6 +879,7 @@ The _Mini-Project: Introduction to Linux_ has successfully equipped you with:
 - Ability to install, configure, and manage essential Linux tools.
 - Professional documentation and project structuring suitable for a portfolio or job application.
 
+
 This project provides a solid foundation for advancing into **DevOps, Cloud Computing, Software Development, and System Administration**.
 
 ## **Author**
