@@ -883,15 +883,13 @@ This project provides a solid foundation for advancing into **DevOps, Cloud Comp
 
 ## **Author**
 
-**Philip Oluwaseyi Oludolamu**
+**Olusegun Akinnola**
 
-- Email: [oluphilix@gmail.com](mailto:oluphilix@gmail.com)
-- Phone: +905338763067
-- LinkedIn: [https://www.linkedin.com/in/philip-oludolamu](https://www.linkedin.com/in/philip-oludolamu)
-- GitHub: [https://github.com/Holuphilix](https://github.com/your-username)
+- Email: [shegezzy@gmail.com](mailto:shegezzy@gmail.com)
+- Phone: +2348135161813
+- LinkedIn: [https://www.linkedin.com/in/olusegunakinnola](https://www.linkedin.com/in/olusegunakinnola)
+- GitHub: [https://github.com/shegezzy](https://github.com/shegezzy)
 
 ✅ **Task 10 Completed:** The mini-project is fully reviewed, documented, and ready for submission or portfolio showcase.
 
-# 01-Introduction-to-Linux
-
-# Introduction-to-Linux
+# Thank you !!!
