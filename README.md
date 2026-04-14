@@ -883,8 +883,7 @@ This project provides a solid foundation for advancing into **DevOps, Cloud Comp
 
 ## **Author**
 
-**Olusegun Akinnola**
-
+- Name: Olusegun Akinnola
 - Email: [shegezzy@gmail.com](mailto:shegezzy@gmail.com)
 - Phone: +2348135161813
 - LinkedIn: [https://www.linkedin.com/in/olusegunakinnola](https://www.linkedin.com/in/olusegunakinnola)
