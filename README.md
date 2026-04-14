@@ -155,19 +155,19 @@ Create and configure an AWS account, then launch an Ubuntu EC2 instance that wil
 ### Screenshots:
 
 **Screenshot 1:** Name and Tags
-![Name and Tags](./blob/main/images/1.name_tags.png)
+![Name and Tags](./images/1.name_tags.png)
 
 **Screenshot 2:** AMI and Instance Type
-![Name and Tags](./blob/main/images/2.ami_instance_type.png)
+![Name and Tags](./images/2.ami_instance_type.png)
 
 **Screenshot 3:** Keypair and Network Setting
-![Keypair and Network Setting](./blob/main/images/1.name_tags.png)
+![Keypair and Network Setting](./images/1.name_tags.png)
 
 **Screenshot 4:** Create Security Group
-![Create Security Group](./blob/main/images/4.create_security_groups.png)
+![Create Security Group](./images/4.create_security_groups.png)
 
 **Screenshot 5:** EC2 Instance
-![Name and Tags](./blob/main/images/5.ec2_instance.png)
+![Name and Tags](./images/images/5.ec2_instance.png)
 
 ✅ **Task 2 Completed:** AWS account has been set up and an Ubuntu server (EC2 instance) is provisioned successfully.
 
